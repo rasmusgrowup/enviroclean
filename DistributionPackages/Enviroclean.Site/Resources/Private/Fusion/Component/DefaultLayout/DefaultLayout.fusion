@@ -1,0 +1,9 @@
+prototype(Enviroclean.Site:Component.DefaultLayout) < prototype(Neos.Fusion:Component) {
+    content = ''
+
+    renderer = afx`
+        <Enviroclean.Site:Component.Header />
+        {props.content}
+        <Enviroclean.Site:Component.Footer />
+    `
+}

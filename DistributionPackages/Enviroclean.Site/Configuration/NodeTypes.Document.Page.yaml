@@ -1,0 +1,7 @@
+'Enviroclean.Site:Document.Page':
+  superTypes:
+    'Enviroclean.Site:Document.AbstractPage': true
+  ui:
+    label: i18n
+    icon: icon-file-o
+    position: 100

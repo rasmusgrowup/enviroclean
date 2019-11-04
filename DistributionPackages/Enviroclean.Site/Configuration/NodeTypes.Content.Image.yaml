@@ -1,0 +1,8 @@
+'Enviroclean.Site:Content.Image':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Enviroclean.Site:Mixin.Image': true
+  ui:
+    label: Image
+    icon: icon-picture
+    position: 300
